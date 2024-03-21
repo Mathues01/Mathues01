@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mathues Romano Bonfim
+- 👋 Hi, I’m @Matheus Romano Bonfim
 - 👀 I’m interested in cirar sistemas
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on desenvolvimento de sistemas
