@@ -19,4 +19,4 @@ Eu sou uma pessoa estudante de Analise e Desenvolvimenteo de Sistemas
 
 ![Mathues01](https://github-readme-stats.vercel.app/api?username=Mathues01&theme=default)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathues01&layout=compact)
+![Mathues01](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathues01&layout=compact)
